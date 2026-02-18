@@ -1,2 +1,4 @@
-# Quantitative-Finance
+# Quantitative Finance
 These are my Quantitative Finance projects
+
+https://docs.google.com/document/d/1dsuMJrsrDCI1aJYn5EYDl2vznKDJfZNm07DZ2cMJlI0/mobilebasic?fbclid=PAT01DUAQDAXlleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafBh9uGL30AIPY6eYV4G8wuAhnEO7yuWUxadeoUyOLXeNsYasCM2lmTIrlZbg_aem_HHkCb7AUvfH8z82Cv4nLxA
